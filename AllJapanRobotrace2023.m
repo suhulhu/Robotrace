@@ -6,7 +6,7 @@ clear
 
 % Start to Point(2), Straight Line
 Point(1).x = 160; Point(1).y = 40;   Point(1).dir = 0;  Point(1).ang0 = -pi/2;
-Point(2).x = 180; Point(2).y = -10;  Point(2).r = 50;   Point(2).ang0 = pi/2;
+Point(2).x = 180; Point(2).y = -10;  Point(2).r = 50; Point(2).ang0 = pi/2;
 
 % Point(2) to Point(3), CW arc
 % resolution is 1cm, total points in theta with radius r would be r*theta,
